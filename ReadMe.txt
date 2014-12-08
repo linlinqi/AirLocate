@@ -31,6 +31,10 @@ RUNTIME REQUIREMENTS:
 
 AirLocate is best viewed on an iPhone
 
+RECOMMENDED HARDWARE:
+
+See http://www.ebay.com/usr/camealone
+
 ===========================================================================
 PACKAGING LIST:
 
